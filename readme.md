@@ -1,7 +1,7 @@
 # Data Wrangling
 
 ### Introduction
-This repo is a part of Data Wrangling course in udacity Data Analysis Professional Nanodegree
+This repo is a part of Data Wrangling course in [udacity](https://udacity.com) Data Analysis Professional Nanodegree
 
 ### Lesson one (Introduction to data wrangling)
 1- Gathering data
