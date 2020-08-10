@@ -10,7 +10,7 @@ This repo is a part of Data Wrangling course in [udacity](https://udacity.com) D
 * unzipping the zip file using Python,
 * then importing the extracted CSV file into a pandas DataFrame in the Jupyter Notebook.
 
-2- Assessing Data
+2- Assessing Data</br>
 So far we identified the following issues in the data:
 * Nondescriptive column headers
 * Missing values (i.e. NaNs)
