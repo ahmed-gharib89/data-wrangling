@@ -9,3 +9,4 @@ This repo is a part of Data Wrangling course in udacity Data Analysis Profession
 * opening a Jupyter Notebook,
 * unzipping the zip file using Python,
 * then importing the extracted CSV file into a pandas DataFrame in the Jupyter Notebook.
+![](image/party.gif)
