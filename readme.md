@@ -34,8 +34,12 @@ So far we identified the following issues in the data:
 * After reassessing your data and revisiting any steps of the data wrangling process deemed necessary, storing your cleaned data can be the next logical step. Storing data is important if you need to use your cleaned data in the future.
 
 5- Analysis and Visualizations
-* Created a pie chart for ASAP Start Dates
+* Created a pie chart for ASAP Start Dates before and after cleaning the data
 
+before
+![](Images/before_pie.png)
+
+after
 ![](Images/ASAP.png)
 
 ![](Images/party.gif)
